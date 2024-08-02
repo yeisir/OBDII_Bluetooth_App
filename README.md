@@ -42,7 +42,7 @@ The application requires the following permissions:
 3. The app will automatically connect to the OBDII device using the MAC address provided in the code (DEVICE_ADDRESS).
 4. Press the "Send" button to start sending location data or location data with RPM to the server.
 
-## Note
+# Note
 
 I hope you find this project useful! If you have any questions or feedback, feel free to open an issue or reach out. :)
 
