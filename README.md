@@ -24,17 +24,6 @@ The application requires the following permissions:
 - `BLUETOOTH_CONNECT`
 - `INTERNET`
 
-## Setup
-
-1. Clone this repository:
-
-   ```sh
-   git clone https://github.com/yeisir/OBDII_Bluetooth_App.git
-2. Open the project in Android Studio.
-3. Ensure your Android device is set up to allow app installations from Android Studio.
-4. Connect your Android device to your computer.
-5. Run the application from Android Studio.
-
 ## Usage
 
 1. Open the app on your Android device.
@@ -44,5 +33,5 @@ The application requires the following permissions:
 
 # Note
 
-I hope this helps your project. If you have any questions, don't hesitate to contact me :)
+Hope this helps :)
 
