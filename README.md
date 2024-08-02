@@ -44,5 +44,5 @@ The application requires the following permissions:
 
 # Note
 
-I hope you find this project useful! If you have any questions or feedback, feel free to open an issue or reach out. :)
+I hope this helps your project. If you have any questions, don't hesitate to contact me :)
 
